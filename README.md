@@ -112,3 +112,7 @@ The `--test` action sends a real test notification (capped at 10 seconds) so you
 Recognised agent names use bundled local icons, including Codex, Claude Code, Cursor, Gemini, GitHub Copilot, DeepSeek, Qwen, Kimi, OpenCode, OpenHands, Cline, Windsurf, Devin, omp, pi, and v0.
 
 The icons are vendored from `@lobehub/icons-static-png` under the MIT license, except `omp.png` and `pi.png`, which use the official logos of Oh My Pi and the Pi coding agent. See `assets/icons/NOTICE.md`.
+
+## License
+
+Released under the [MIT License](LICENSE). Bundled icons keep their own licenses, listed in `assets/icons/NOTICE.md`.
