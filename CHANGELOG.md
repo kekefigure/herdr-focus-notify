@@ -2,6 +2,12 @@
 
 All notable changes to `herdr-focus-notify` are documented here.
 
+## [Unreleased]
+
+### Added
+
+- A `LICENSE` file with the MIT License text, matching the `license = "MIT"` that `Cargo.toml` has always declared.
+
 ## [0.8.0] - 2026-10-08
 
 ### Added

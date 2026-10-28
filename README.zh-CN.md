@@ -110,3 +110,7 @@ listen_on unix:/tmp/kitty
 已识别的 agent 名称会使用内置本地图标，包括 Codex、Claude Code、Cursor、Gemini、GitHub Copilot、DeepSeek、Qwen、Kimi、OpenCode、OpenHands、Cline、Windsurf、Devin、omp、pi 和 v0。
 
 图标来自 `@lobehub/icons-static-png`，以 MIT 许可证提供，其中 `omp.png` 和 `pi.png` 使用 Oh My Pi 与 Pi coding agent 的官方 logo。详见 `assets/icons/NOTICE.md`。
+
+## 许可证
+
+本项目以 [MIT 许可证](LICENSE) 发布。内置图标沿用各自的许可证，见 `assets/icons/NOTICE.md`。
